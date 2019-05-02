@@ -21,5 +21,4 @@
 <p>Follow me on my Official Site:-<a href="https://abhishekyadavindia.blogspot.com/">Official Link</a></p>
 <p>Follow me on my other site:-<a href="https://quantamofficial.blogspot.com/">Follow me!!</a></p>
 <p>Subscribe me at my YouTube Channel:-<a href="https://www.youtube.com/channel/UCpWAaAz70iWB5h-BayZPqig">Click Here For Redirecting you to YouTube Channel</a></p>
-<iframe width="853" height="480" src="https://www.youtube.com/embed/-jzbItfhHiw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </html>
